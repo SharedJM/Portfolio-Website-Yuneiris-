@@ -155,14 +155,14 @@
 
 .btn-secondary {
   color: #fff;
-  background-color: #2294fb;
-  background-color: #2294fb
+  background-color: #E91E63;
+  background-color: #E91E63
 }
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: #208ded;
-  border-color: #208ded;
+  background-color: #D81B60;
+  border-color: #D81B60;
 }
 
 /* Desktop modal - Safari-like container */

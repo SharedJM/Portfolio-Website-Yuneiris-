@@ -1,0 +1,28 @@
+.footer {
+  text-align: center;
+  padding: 1rem 0;
+  font-size: 0.875rem;
+  color: #666;
+  background-color: transparent;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer .heart {
+  color: #E91E63;
+  font-size: 1rem;
+}
+
+.footer-link {
+  color: #E91E63;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+  color: #C2185B;
+  text-decoration: underline;
+}

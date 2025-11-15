@@ -9,7 +9,7 @@
   font-size: 2.25rem;
   margin-bottom: 3rem;
   font-weight: bold;
-  background-color: #2294fb;
+  background-color: #E91E63;
   color: #fff;
   padding: 0.625rem 1.25rem;
   border-radius: 6.25rem;
@@ -85,15 +85,15 @@
   font-weight: normal;
   display: inline-block;
   background-color: transparent;
-  color: #2294fb;
+  color: #E91E63;
   padding: 0.3125rem 1.25rem;
   border-radius: 1.25rem;
-  border: 1px solid #2294fb;
+  border: 1px solid #E91E63;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .project-links a:hover {
-  background-color: #2294fb;
+  background-color: #E91E63;
   color: #fff;
 }
 
@@ -127,7 +127,7 @@
 }
 
 .pagination-button {
-  background-color: #2294fb;
+  background-color: #E91E63;
   color: #fff;
   border: none;
   border-radius: 1.25rem;
@@ -178,7 +178,7 @@
     padding: 0 0.9375rem;
     max-height: 6.25rem;
     overflow-y: auto;
-    background-color: #2294fb;
+    background-color: #E91E63;
     color: #fff;
     border-radius: 0.625rem;
     padding: 0.625rem;

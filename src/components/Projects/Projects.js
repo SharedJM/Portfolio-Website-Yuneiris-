@@ -103,11 +103,11 @@ const Projects = () => {
                   margin: '0 0.625rem',
                   fontWeight: 'normal',
                   display: 'inline-block',
-                  backgroundColor: '#2294fb',
+                  backgroundColor: '#E91E63',
                   color: '#fff',
                   padding: '0.3125rem 1.25rem',
                   borderRadius: '1.25rem',
-                  border: '1px solid #2294fb',
+                  border: '1px solid #E91E63',
                   transition: 'background-color 0.3s ease, color 0.3s ease',
                 }}
               >
@@ -123,11 +123,11 @@ const Projects = () => {
                   margin: '0 0.625rem',
                   fontWeight: 'normal',
                   display: 'inline-block',
-                  backgroundColor: '#2294fb',
+                  backgroundColor: '#E91E63',
                   color: '#fff',
                   padding: '0.3125rem 1.25rem',
                   borderRadius: '1.25rem',
-                  border: '1px solid #2294fb',
+                  border: '1px solid #E91E63',
                   transition: 'background-color 0.3s ease, color 0.3s ease',
                 }}
               >

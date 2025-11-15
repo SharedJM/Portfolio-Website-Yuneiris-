@@ -34,8 +34,8 @@ const Experience = () => {
               </div>
             </div>
             <div className="experience-tech-stack">
-              {job.techStack.map((tech, techIndex) => (
-                <span key={techIndex} className="tech-bubble">{tech}</span>
+              {job.Skills.map((skill, techIndex) => (
+                <span key={techIndex} className="tech-bubble">{skill}</span>
               ))}
             </div>
           </div>

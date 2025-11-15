@@ -32,7 +32,7 @@
   max-width: 37.5rem; /* Limit text width */
   text-align: left; /* Align text to the left */
   /* Removed margin-left from here */
-  background-color: #2294fb; /* Custom blue for sent message bubble */
+  background-color: #E91E63; /* Custom pink for sent message bubble */
   border-radius: 1.25rem; /* Rounded corners */
   border-bottom-left-radius: 0.3125rem; /* Sharper corner for the tail side */
   padding: 1.25rem;
@@ -87,19 +87,19 @@
 
 .about-resume-button {
   background-color: transparent;
-  border: 1px solid #2294fb;
-  color: #2294fb;
+  border: 1px solid #E91E63;
+  color: #E91E63;
 }
 
 .about-resume-button:hover {
-  background-color: #2294fb;
+  background-color: #E91E63;
   color: #fff;
 }
 
 .social-button {
-  background-color: #2294fb;
+  background-color: #E91E63;
   color: #fff;
-  border: 1px solid #2294fb;
+  border: 1px solid #E91E63;
 }
 
 
